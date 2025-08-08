@@ -1,0 +1,7 @@
+let x
+let y
+set x 10
+set y 5
+set x 3
+display y
+display x
